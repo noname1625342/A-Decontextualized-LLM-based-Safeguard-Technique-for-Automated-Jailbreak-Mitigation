@@ -9,7 +9,7 @@
 - #### Create an OpenAI API key https://platform.openai.com/api-keys
 - #### Modify the .env file in the project root with your API key
 - #### Open the terminal in the D-Shield folder and install the dependencies:
-  -    npm install express dotenv openai cors
+  - npm install express dotenv openai cors OR sudo npm install express dotenv openai cors
 - #### Start the server:
   - node server.js
 - #### The Web App will be available at http://localhost:3000
